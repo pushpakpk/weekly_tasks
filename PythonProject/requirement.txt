@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyterlab
+streamlit
+nltk
+scipy
+statsmodels
+numba
+psutil
+tqdm
